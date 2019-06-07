@@ -1,3 +1,4 @@
+<style>
 @import url('http://fonts.googleapis.com/css?family=Source+Code+Pro');
 @import url('http://fonts.googleapis.com/css?family=Lora');
 .CodeMirror pre {
@@ -119,3 +120,4 @@ blockquote p {
     line-height: 125%;
     font-size: 100%;
 }
+</style>
